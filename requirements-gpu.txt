@@ -4,13 +4,22 @@ Pillow
 cython
 matplotlib
 scikit-image
-tensorflow-gpu==1.9
-keras==2.2.0
+tensorflow==2.5.3
 opencv-python
 h5py
 imgaug
 IPython[all]
-pandas>=0.23.1
-torch==0.4.1 -f https://download.pytorch.org/whl/cu90/torch_stable.html
-torchvision==0.2.1 -f https://download.pytorch.org/whl/cu90/torch_stable.html
+pandas
 ffmpeg-python
+PySide2
+grpcio
+protobuf
+shiboken2
+six
+termcolor
+Werkzeug
+wrapt
+google-pasta
+absl-py
+astor
+gast
